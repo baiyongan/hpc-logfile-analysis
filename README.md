@@ -1,19 +1,29 @@
 # HPC_LogFile_Analysis
 
-#step 1
-Collect the bhist logs
+### #step 1
 
-#step 2
-Parse the bhist logs
+- Collect the bhist logs
 
-Modify the logfile to proper excel format
+### #step 2
 
-#step 3 
-Visulize exPcel data tables
+- Parse the bhist logs
 
-#step 4 
-Extracting queue's features
+- Modify the logfile to a proper excel format
 
-$step 5
-Correlation analysis
+
+### #step 3 
+
+- Visulize excel data tables
+
+### #step 4 
+
+- Extracting queue's features
+
+### #step 5
+
+- Correlation analysis
+
+
+
+
 
