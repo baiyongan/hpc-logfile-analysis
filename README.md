@@ -5,6 +5,7 @@ Collect the bhist logs
 
 #step 2
 Parse the bhist logs
+
 Modify the logfile to proper excel format
 
 #step 3 
@@ -15,3 +16,4 @@ Extracting queue's features
 
 $step 5
 Correlation analysis
+
