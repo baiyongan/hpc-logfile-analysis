@@ -50,7 +50,16 @@
 ### #step 6
 
 - Further exploration, to be continued...
+  - user feature's cluster analysis
+  - bjobs logfile analysis
+  - Real-time sorting of long-pending jobs 
 
+#### #Summary
 
+- 难点在于业务梳理，指标制定，工具使用还属其次
+- 完成日志分析数据分析全流程：数据提取—数据清洗—特征定义—数据可视化—指导决策
 
-难点在于业务梳理，工具使用还属其次
+#### # Results presentation
+
+![user-excel](D:\BYA_Project\Github_Desktop_Project\HPC_LogFile_Analysis\Results\Results_Presentation\user-excel.JPG)
+
