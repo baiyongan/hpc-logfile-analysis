@@ -61,5 +61,5 @@
 
 #### # Results presentation
 
-![user-excel](https://github.com/baiyongan/HPC_LogFile_Analysis/blob/master/Results/Results_Presentation/user-excel.JPG)
+![image](https://github.com/baiyongan/HPC_LogFile_Analysis/blob/master/Results/Results_Presentation/user-excel.JPG)
 
