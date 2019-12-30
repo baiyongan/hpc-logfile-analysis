@@ -19,9 +19,4 @@ mkdir Intermediate_Files
 cp namelist.txt   JustQueue-bhist-2019-all.log   JustQueue_bhist_2019_original.out   Creat_bhist_log_for_every_user.sh Intermediate_Files/
 zip -rvm LogFile-JustQueue-2019-all-user.zip   JustQueue-2019-*   Intermediate_Files
 
-#for name in `cat namelist.txt`
-#  do 
-#    rm -rf JustQueue-2019-${name}
-#done
-
 echo -e  "\n\tThe logfile for every user is now prepared...\n"
