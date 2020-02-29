@@ -53,7 +53,7 @@
   - user feature's cluster analysis
   - bjobs logfile analysis
   - Real-time sorting of long-pending jobs 
-  - Perhaps use ELK tools
+  - Perhaps use **ELK** tools
 #### #Summary
 
 - **难点**在于**业务梳理,以及指标制定**，工具使用还属其次
