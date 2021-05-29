@@ -94,37 +94,4 @@
 
 ![JustQueue-2019_last_30_days_user_feature_collection.png](https://i.loli.net/2021/05/29/8x57ralnDBVeCQO.png)
 
-<!-- 
-![User_log](https://github.com/baiyongan/HPC_LogFile_Analysis/tree/master/Results/Results_Presentation/user_log.png)
-
-![User_excel](https://github.com/baiyongan/HPC_LogFile_Analysis/blob/master/Results/Results_Presentation/user_excel.png)
-
-![User_job_accuracy](https://github.com/baiyongan/HPC_LogFile_Analysis/tree/master/Results/Results_Presentation/JustQueue-2019-user_547maa_job_accuracy.png)
-
-![User_job_runtime](https://github.com/baiyongan/HPC_LogFile_Analysis/tree/master/Results/Results_Presentation/JustQueue-2019-user_547maa_job_runtime.png)
-
-![User_job_total_CPUtime](https://github.com/baiyongan/HPC_LogFile_Analysis/tree/master/Results/Results_Presentation/JustQueue-2019-user_547maa_job_total_CPUtime.png)
-
-![User_job_submit_moment](https://github.com/baiyongan/HPC_LogFile_Analysis/tree/master/Results/Results_Presentation/JustQueue-2019-user_547maa_job_Submit_moment.png)
-
-![User_job_pend_time](https://github.com/baiyongan/HPC_LogFile_Analysis/tree/master/Results/Results_Presentation/JustQueue-2019-user_547maa_job_pend_time.png)
-
-![User_job_memory_used](https://github.com/baiyongan/HPC_LogFile_Analysis/tree/master/Results/Results_Presentation/JustQueue-2019-user_547maa_job_memory_used.png)
-
-![User_job_full_states_by_day](https://github.com/baiyongan/HPC_LogFile_Analysis/tree/master/Results/Results_Presentation/submission_status.png)
-
-![User_job_long_pending_by_day](https://github.com/baiyongan/HPC_LogFile_Analysis/tree/master/Results/Results_Presentation/JustQueue-2019-user_547maa_job_long_pending_by_day.png)
-
-![User_job_long_pending_of_last_45_days](https://github.com/baiyongan/HPC_LogFile_Analysis/tree/master/Results/Results_Presentation/JustQueue-2019-user_547maa_job_long_pending_of_last_45_days.png)
-
-![User_job_submission_counts_by_day](https://github.com/baiyongan/HPC_LogFile_Analysis/tree/master/Results/Results_Presentation/JustQueue-2019-user_547maa_job_submission_counts_by_day.png)
-
-![User_job_submission_counts_of_last_45_days](https://github.com/baiyongan/HPC_LogFile_Analysis/tree/master/Results/Results_Presentation/JustQueue-2019-user_547maa_job_submission_counts_of_last_45_days.png)
-
-![Queue-2019_last_30_days_job_count](https://github.com/baiyongan/HPC_LogFile_Analysis/tree/master/Results/Results_Presentation/JustQueue-2019_last_30_days_job_count.png)
-
-![Part_of_Queue-2019_long_pending_jobs](https://github.com/baiyongan/HPC_LogFile_Analysis/tree/master/Results/Results_Presentation/part_of_queue_long_pending.png)
-
-![Queue-2019_last_30_days_user_feature_collection](https://github.com/baiyongan/HPC_LogFile_Analysis/tree/master/Results/Results_Presentation/JustQueue-2019_last_30_days_user_feature_collection.png) 
--->
 
