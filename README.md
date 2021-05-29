@@ -64,7 +64,7 @@
 
 ![user_log.png](https://i.loli.net/2021/05/29/cT3mBA8vMf5YRuX.jpg)
 
-<!-- ![user_excel.png](https://i.loli.net/2021/05/29/RYbOTXVvrKGl7k2.jpg)
+![user_excel.png](https://i.loli.net/2021/05/29/RYbOTXVvrKGl7k2.jpg)
 
 ![JustQueue-2019-user_547maa_job_accuracy.png](https://i.loli.net/2021/05/29/l5jdLnQmXs71Zgc.png)
 
@@ -92,6 +92,6 @@
 
 ![part_of_queue_long_pending.png](https://i.loli.net/2021/05/29/zlAtIoYQkTqM2cN.jpg)
 
-![JustQueue-2019_last_30_days_user_feature_collection.png](https://i.loli.net/2021/05/29/8x57ralnDBVeCQO.png) -->
+![JustQueue-2019_last_30_days_user_feature_collection.png](https://i.loli.net/2021/05/29/8x57ralnDBVeCQO.png)
 
 
